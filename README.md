@@ -10,4 +10,5 @@ Note: You may want to try the program separately with one good password, then on
 
 ## The first two lines of output should look something like this ##
 HelloWorld -> pwnded
+
 BHSD(*2)fa#23df -> safe
